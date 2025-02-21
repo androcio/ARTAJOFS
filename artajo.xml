@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="">
+    <title>ArTajo FS ~ Últimas noticias </title>
+    <link href="http://www.w3.org/2005/Atom"></link>
+    <updated>2025-02-20 T 12:31:00Z</updated>
+    <author>
+        <name>Andrés García</name>
+    </author>
+    <id>""</id>
+    <entry>
+        <title>Entradas</title>
+        <link href="https://l1nq.com/compratuticket"></link>
+        <id>"https://l1nq.com/compratuticket"</id>
+        <updated>2025-02-20 T 12:44:00Z</updated>
+        <summary>Nuevas entradas disponibles en la web, ¡Ahora a 5€!</summary>
+    </entry>
+
+    <entry>
+        <title>Puesto de trabajo</title>
+        <link href="https://l1nk.dev/cmArtajo"></link>
+        <id>"https://l1nk.dev/cmArtajo"</id>
+        <updated>2025-02-20 T 12:47:00Z</updated>
+        <summary>Buscamos nuevo CM para las RRSS de Artajo. ¡Podrías ser tú!</summary>
+    </entry>
+
+    <entry>
+        <title>Tour guiado</title>
+        <link href="https://bstadium.es/tours-originales/"></link>
+        <id>"https://bstadium.es/tours-originales/"</id>
+        <updated>2025-02-20 T 12:52:00Z</updated>
+        <summary>Busca nuestro estadio y compra la entrada para un tour guiado para poder ver todas las instalaciones.</summary>
+    </entry>
+
+    <entry>
+        <title>Compra tu camiseta</title>
+        <link href="https://www.futbolfactory.es/?srsltid=AfmBOooXGL63JXmJ6BRYLxsv9ItGhcZ5kwVcNQRBcwD4UpE_RKH7Uy2G"></link>
+        <id>"https://www.futbolfactory.es/?srsltid=AfmBOooXGL63JXmJ6BRYLxsv9ItGhcZ5kwVcNQRBcwD4UpE_RKH7Uy2G"</id>
+        <updated>2025-02-21 T 9:18:00Z</updated>
+        <summary>Compra tu camiseta de ArTajo ¡Totalmente personalizable!</summary>
+    </entry>
+
+
+    
+</feed>
